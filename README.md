@@ -4,9 +4,10 @@
 SentimentAnalysis è un progetto realizzato per l'esame di Cognitive Computing Systems. 
 Il progetto consiste nello sviluppo di un modello predittivo in grado di estrarre e analizzare i sentimenti espressi nei testi utilizzando tecniche di Natural Language Processing (NLP) e deep learning. 
 
-Il modello è stato addestrato sulla base del dataset 'Sentiment140' che contiene 1.600.000 tweets etichettati come negativi (sentiment = 0) e positivi (sentiment = 4).
+Il modello è stato addestrato sulla base del dataset [Sentiment140]([https://www.esempio.com](https://www.kaggle.com/datasets/kazanova/sentiment140))
+ che contiene 1.600.000 tweets etichettati come negativi (sentiment = 0) e positivi (sentiment = 4).
 
-Il file [SentimentAnalysis.ipynb](./SentimentAnalysis.ipynb) contiene il codice utilizzato per:
+Il notebook [SentimentAnalysis.ipynb](./SentimentAnalysis.ipynb) contiene il codice utilizzato per:
 - import delle librerie necessarie
 - caricamento e analisi del dataset
 - text-preprocesing
